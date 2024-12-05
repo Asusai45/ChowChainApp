@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "646814997796",
+    "project_id": "chow-chain",
+    "storage_bucket": "chow-chain.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646814997796:android:6ecc600410f5b222e567b1",
+        "android_client_info": {
+          "package_name": "com.adityaproj.chowchain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY4aH2mhLfclOR-MYJI_1NQs33m6ta-P4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
